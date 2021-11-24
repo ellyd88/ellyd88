@@ -30,6 +30,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyd88&show_icons=true&locale=en" alt="ellyd88" /></p>
 
