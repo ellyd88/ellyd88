@@ -29,10 +29,11 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
 </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyd88&show_icons=true&locale=en" alt="ellyd88" /></p>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyd88&" alt="ellyd88" /></p>
 
