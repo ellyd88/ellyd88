@@ -32,8 +32,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ellyd88&show_icons=true&locale=en" alt="ellyd88" /></p>
-</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyd88&" alt="ellyd88" /></p>
 
