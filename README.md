@@ -1,17 +1,21 @@
-<h1 align="center">Hello there, I'm Elly! 👋</h1>
-<h3 align="center">I am an enthusiastic and determined Software Developer looking for full-time opportunities to continue my learning and development in tech. I'm eager for a new challenge. Bringing with me a passion for problem solving and a constant desire to improve and grow, I'm excited to work on tech solutions to better people's lives.</h3>
+<h1> Hello there, I'm Elly! 👋</h1>
+<h3> I am an enthusiastic and determined Software Developer looking for full-time opportunities to continue my learning and development in tech. I'm eager for a new challenge. Bringing with me a passion for problem solving and a constant desire to improve and grow, I'm excited to work on tech solutions to better people's lives.</h3>
+<h2>Experience</h2>
+<h3>Software Developer, School of Code | July-November 2021</h3>
+    
+<h3>The 16 week full-time, fully-immersive, intensive bootcamp covers full-stack Javascript technologies, Agile Methodologies and pair-programming.
+Through the life-changing opportunity of being selected as 1 of 20 from nearly 1000 applicants, I eagerly took the leap of faith into tech, and have been rewarded with the exciting new skills and experience of working on real-world problem statements, as part of a fully-remote full-stack developer team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyd88&label=Profile%20views&color=0e75b6&style=flat" alt="ellyd88" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/ellyd88" target="blank"><img src="https://img.shields.io/twitter/follow/ellyd88?logo=twitter&style=for-the-badge" alt="ellyd88" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ellyd88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ellyd88" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ellyd88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellyd88" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://twitter.com/ellyd88" target="blank"><img src="https://img.shields.io/twitter/follow/ellyd88?logo=twitter&style=for-the-badge" alt="ellyd88" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -29,11 +33,15 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
+
+<h2>Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
 </br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyd88&" alt="ellyd88" /></p>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyd88&label=Profile%20views&color=0e75b6&style=flat" alt="ellyd88" /> </p>
 
 
 <!--
