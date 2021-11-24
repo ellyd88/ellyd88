@@ -14,6 +14,7 @@ Through the life-changing opportunity of being selected as 1 of 20 from nearly 1
 <a href="https://linkedin.com/in/elly-durrant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ellyd88" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/ellyd88" target="blank"><img src="https://img.shields.io/twitter/follow/ellyd88?logo=twitter&style=for-the-badge" alt="ellyd88" /></a> </p>
+</br>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
@@ -37,17 +38,18 @@ Through the life-changing opportunity of being selected as 1 of 20 from nearly 1
 
 
 <h2>Stats</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /></p>
 </br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellyd88&show_icons=true&locale=en&layout=compact" alt="ellyd88" /> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ellyd88&" alt="ellyd88" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellyd88&" alt="ellyd88" /></p>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellyd88&label=Profile%20views&color=0e75b6&style=flat" alt="ellyd88" /> </p>
-
----
+<h2></h2>
 
 ![snake gif](https://github.com/ellyd88/ellyd88/blob/output/github-contribution-grid-snake.gif)
+<h2></h2>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ellyd88&label=Profile%20views&color=0e75b6&style=flat" alt="ellyd88" /></p>
+</br>
 
 <!--
 **ellyd88/ellyd88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
