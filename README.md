@@ -1,10 +1,4 @@
 <h1> Hello there, I'm Elly! 👋</h1>
-<p> I am an enthusiastic and determined Software Developer looking for full-time opportunities to continue my learning and development in tech. I'm eager for a new challenge. Bringing with me a passion for problem solving and a constant desire to improve and grow, I'm excited to work on tech solutions to better people's lives.</p>
-<h2>Experience</h2>
-<h3>Software Developer, School of Code | July-November 2021</h3>
-    
-<p>The 16 week full-time, fully-immersive, intensive bootcamp covers full-stack Javascript technologies, Agile Methodologies and pair-programming.
-Through the life-changing opportunity of being selected as 1 of 20 from nearly 1000 applicants, I eagerly took the leap of faith into tech, and have been rewarded with the exciting new skills and experience of working on real-world problem statements, as part of a fully-remote full-stack developer team.</p>
 
 ---
 
